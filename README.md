@@ -1,2 +1,2 @@
 # fileUpload
-Upload and see preview images
+Upload, watch & remove images...
